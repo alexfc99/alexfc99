@@ -1,5 +1,7 @@
 # Mi Portafolio
 
+![Mi imagen](imagenes/mi_imagen.jpg)
+
 ## Proyectos Destacados
 
 ### Proyectos: Refactorización de un código en java.
