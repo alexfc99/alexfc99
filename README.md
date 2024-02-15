@@ -4,7 +4,7 @@
 
 ## 🚀Proyectos Destacados
 
-###💡 Proyectos: Refactorización de un código en java.
+### 💡 Proyectos: Refactorización de un código en java.
 
 -📝 **Descripción**: Refactorizar un código con el programa IntelliJ.
 
