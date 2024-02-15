@@ -1,6 +1,6 @@
 # Mi Portafolio
 
-![Mi imagen](imagenes/mi_imagen.jpg)
+![Mi imagen](portafolio.png)
 
 ## Proyectos Destacados
 
