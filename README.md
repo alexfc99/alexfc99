@@ -1,10 +1,10 @@
-# Mi Portafolio
+# 📁 Mi Portafolio
 
 ![Mi imagen](portafolio.png)
 
-## Proyectos Destacados
+## 🚀Proyectos Destacados
 
-### Proyectos: Refactorización de un código en java.
+###💡 Proyectos: Refactorización de un código en java.
 
 -📝 **Descripción**: Refactorizar un código con el programa IntelliJ.
 
@@ -13,7 +13,8 @@
 -🌐 **Enlace**: [Refactorizacion](https://github.com/tu_usuario/calculadora-propinas)
 
 
-## Contacto
+## 📞 Contacto
 
 -📧 **Correo Electrónico**: alufat2056@gmail.com
+
 -📱 **Numero de teléfono**: 610803298
