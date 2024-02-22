@@ -10,7 +10,7 @@
 
 -💻 **Tecnologías**: Java
 
--🌐 **Enlace**: [Refactorizacion]([https://github.com/tu_usuario/calculadora-propinas](https://github.com/alexfc99/alexfc99/blob/refactor/src/CodigoRefactorizado.java)](https://github.com/alexfc99/alexfc99/tree/refactor/src))
+-🌐 **Enlace**: [Refactorizacion](https://github.com/alexfc99/alexfc99/tree/refactor/src)
 
 
 ## 📞 Contacto
