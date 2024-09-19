@@ -10,6 +10,6 @@
 
 ## 📞 Contacto
 
--📧 **Correo Electrónico**: alufat2056@ieselcaminas.org
+-📧 **Correo Electrónico**: alexfatuc99@gmail.com
 
 -📱 **Numero de teléfono**: 610803298
