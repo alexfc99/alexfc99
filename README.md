@@ -4,13 +4,8 @@
 
 ## 🚀Proyectos Destacados
 
-### 💡 Proyectos: Refactorización de un código en java.
-
--📝 **Descripción**: Refactorizar un código con el programa IntelliJ.
-
 -💻 **Tecnologías**: Java
 
--🌐 **Enlace**: [Refactorizacion](https://github.com/alexfc99/alexfc99/tree/refactor/src)
 
 
 ## 📞 Contacto
